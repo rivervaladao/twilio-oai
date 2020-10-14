@@ -188,11 +188,6 @@
             "description": "The resource was deleted successfully."
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -226,11 +221,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -270,11 +260,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -314,11 +299,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -372,11 +352,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -480,11 +455,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -533,11 +503,6 @@
             "description": "Temporary Redirect"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -641,11 +606,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -710,11 +670,6 @@
             "description": "Created"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]

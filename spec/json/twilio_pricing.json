@@ -542,11 +542,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -591,11 +586,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -679,11 +669,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -726,11 +711,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -812,11 +792,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -859,11 +834,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -906,11 +876,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -994,11 +959,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -1041,11 +1001,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]
@@ -1096,11 +1051,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "GA"
         ]

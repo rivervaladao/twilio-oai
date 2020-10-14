@@ -258,11 +258,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -339,11 +334,6 @@
             "description": "Created"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -440,11 +430,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -494,11 +479,6 @@
             "description": "The resource was deleted successfully."
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -544,11 +524,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -586,11 +561,6 @@
             "description": "The resource was deleted successfully."
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -624,11 +594,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]
@@ -679,11 +644,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Beta"
         ]

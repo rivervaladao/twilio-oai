@@ -342,11 +342,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Preview"
         ]
@@ -472,11 +467,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Preview"
         ]
@@ -537,11 +527,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Preview"
         ]
@@ -589,11 +574,6 @@
             "description": "OK"
           }
         },
-        "security": [
-          {
-            "accountSid_authToken": []
-          }
-        ],
         "tags": [
           "Preview"
         ]
